@@ -1,0 +1,8 @@
+Website = "https://github.com/xorgal/xtun-client"
+
+[Details]
+  Icon = "../assets/icon.ico"
+  Name = "xtun client"
+  ID = "xyz.xorgal.xtun"
+  Version = "1.0.1"
+  Build = 138
