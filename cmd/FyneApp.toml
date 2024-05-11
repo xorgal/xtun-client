@@ -5,4 +5,4 @@ Website = "https://github.com/xorgal/xtun-client"
   Name = "xtun client"
   ID = "xyz.xorgal.xtun"
   Version = "1.0.1"
-  Build = 138
+  Build = 143
